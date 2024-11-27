@@ -1,0 +1,19 @@
+id = "snow-fox-theme"
+name = "SnowFox Theme"
+version = "0.0.1"
+schema_version = 1
+description = "SnowFox is a cool and warm theme for Zed Editor inspired by the serene beauty of snow and the vibrant energy of foxes."
+repository = "https://github.com/ProPrak01/zed-SnowFox-theme"
+authors = ["Prakash Kumar Jha <prakashiit1@gmail.com>"]
+themes = ["themes/snow-fox.json"]
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
