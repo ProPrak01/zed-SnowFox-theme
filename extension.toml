@@ -7,13 +7,3 @@ repository = "https://github.com/ProPrak01/zed-SnowFox-theme"
 authors = ["Prakash Kumar Jha <prakashiit1@gmail.com>"]
 themes = ["themes/snow-fox.json"]
 languages = []
-
-[lib]
-
-[grammars]
-
-[language_servers]
-
-[slash_commands]
-
-[indexed_docs_providers]
