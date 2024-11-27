@@ -1,6 +1,6 @@
 # SnowFox Theme
 
-![SnowFox Logo](assets/snow-fox.svg)
+<img src="assets/snow-fox.png" alt="SnowFox Logo" width="200"/>
 
 SnowFox is a cool and warm theme for Zed Editor inspired by the serene beauty of snow and the vibrant energy of foxes. It provides a visually appealing coding environment with a dark background and vibrant syntax highlighting.
 
