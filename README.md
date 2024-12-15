@@ -27,6 +27,10 @@ The theme utilizes a combination of cool blues and warm oranges to create a bala
 - **Variables**: `#FFF176` *(Light Yellow)*
 - **Constants and Types**: `#B39DDB` *(Soft Purple)*
 
+## Download
+
+Available in the zed extension store
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find any issues, please open an [issue](https://github.com/ProPrak01/zed-SnowFox-theme/issues) or submit a pull request.
